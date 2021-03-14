@@ -4,3 +4,4 @@ Test/testdir/
 win_subprocess.pyc
 win32_unicode_argv.pyc
 Test/wincmd.bat
+.idea
